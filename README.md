@@ -18,3 +18,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# git remote add origin git@github.com:taiki-umetsu/nuxt-todo.git
